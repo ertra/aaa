@@ -1,1 +1,1 @@
-web: target/universal/stage/bin/aaa -Dhttp.port=$PORT
+web: target/universal/stage/bin/main -Dhttp.port=$PORT
